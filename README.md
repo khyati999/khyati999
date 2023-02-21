@@ -1,5 +1,5 @@
 <h1>Khyati Mishra</h1>
-<h2>work and diligence have a moral benefit and an inherent ability.</h2>
+<h2>Work and Diligence have a moral benefit and an inherent ability.</h2>
 <h3>AI/ML Enthusiast,Passionate to learn new things....</h3>
 
 <a href="https://twitter.com/khyati_mishra7" rel="nofollow"><img alt="" src="https://camo.githubusercontent.com/f558aef090eaabdd1b075b0255b42836f972ca92de3f8a2d066fff67cc544668/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d6e6f726d616c266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=normal&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -14,13 +14,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a Dancer too.
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=khyati999
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=khyati999&show,_icons=true&theme=vue&count_private=true&include_all_commits=true" />
 
-&show,_icons=true&theme=vue&count_private=true&include_all_commits=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyati999
-
-&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyati999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

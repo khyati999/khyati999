@@ -18,13 +18,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyati999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🤝 Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/khyati-mishra-675403226/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="khyati-mishra-675403226/" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/khyatimishra999" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+    <a href="https://www.hackerrank.com/khyatimishra999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="khyatimishra999" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/khyatimishra" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
@@ -35,4 +34,7 @@
     <a href="https://leetcode.com/khyatimishra999/" target="blank"><img align="center"
             src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png"
             alt="khyatimishra999/" height="30" width="40" /></a>
+    <a href="https://dev.to/khyati999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/khyati999" height="30" width="40" /></a>
+    <a href="https://twitter.com/khyati_mishra7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/khyati_mishra7" height="30" width="40" /></a>
+    <a href="https://www.kaggle.com/khyatimishra999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhinavbhatra" height="30" width="40" /></a>
 </p>

@@ -13,6 +13,7 @@
 - 💬 Ask me about AWS, Machine Learning, Artificial Intelligence.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a Dancer too.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyati999)](https://github.com/khyati999/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khyati999&theme=default&layout=compact"/>

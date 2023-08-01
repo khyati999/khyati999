@@ -16,7 +16,7 @@
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khyati999&show,_icons=true&theme=vue&count_private=true&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyati999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyati999)](https://github.com/khyati999/github-readme-stats)
 
 <h3 align="center">🤝 Connect with me:</h3>
 <p align="left">

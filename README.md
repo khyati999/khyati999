@@ -32,9 +32,9 @@
     <a href="https://www.codechef.com/users/khyati_999" target="blank"><img align="center"
             src="https://cdn.codechef.com/images/cc-logo.svg"
             alt="users/khyati_999" height="30" width="40" /></a>
-    <a href="https://leetcode.com/khyatimishra999/" target="blank"><img align="center"
+    <a href="https://leetcode.com/khyatimishra7014/" target="blank"><img align="center"
             src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png"
-            alt="khyatimishra999/" height="30" width="40" /></a>
+            alt="khyatimishra7014/" height="30" width="40" /></a>
     <a href="https://dev.to/khyati999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/khyati999" height="30" width="40" /></a>
     <a href="https://twitter.com/khyati_mishra7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/khyati_mishra7" height="30" width="40" /></a>
     <a href="https://www.kaggle.com/khyatimishra999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhinavbhatra" height="30" width="40" /></a>

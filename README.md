@@ -1,41 +1,109 @@
-<h1>Khyati Mishra</h1>
-<h2>Work and Diligence have a moral benefit and an inherent ability.</h2>
-<h3>AI/ML Enthusiast,Passionate to learn new things....</h3>
+<h1 align="center">Hi 👋, I'm Khyati Mishra</h1>
+<h3 align="center">💡 Work and Diligence have a moral benefit and an inherent ability.</h3>
+<h4 align="center">AI/ML Enthusiast | AWS Cloud Learner | Dancer 💃</h4>
 
-<a href="https://twitter.com/khyati_mishra7" rel="nofollow"><img alt="" src="https://camo.githubusercontent.com/f558aef090eaabdd1b075b0255b42836f972ca92de3f8a2d066fff67cc544668/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d6e6f726d616c266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=normal&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/khyati-mishra-675403226/}" rel="nofollow"><img alt="" src="https://camo.githubusercontent.com/46b4cacba29b90c400d3d8990aca63573cb42df06f696e05ac63768b61720c20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d6e6f726d616c266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khyati999&label=Profile%20views&color=0e75b6&style=flat" alt="khyati999" />
+  <img src="https://img.shields.io/github/followers/khyati999?label=Followers&style=flat&color=0e75b6" alt="followers" />
+</p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=khyati999&label=Profile%20views&color=0e75b6&style=flat" alt="khyati999" /> </p>
+---
 
-- 🔭 I’m currently working on Machine Learning.
-- 🌱 I’m currently learning Machine Learning and Amazon Web Services(AWS).
-- 👯 I’m looking to collaborate on Image recognition and Real Time Speech Recognition Project,Cyber Dog(Lucy).
-- 💬 Ask me about AWS, Machine Learning, Artificial Intelligence.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a Dancer too.
+### 👩‍💻 About Me
 
-[[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyati999)](https://github.com/khyati999/github-readme-stats)
+- 🔭 Currently working on **Machine Learning** projects
+- 🌱 Learning **Machine Learning** and **Amazon Web Services (AWS)**
+- 👯 Looking to collaborate on **Image Recognition**, **Real-Time Speech Recognition**, and **Cyber Dog (Lucy)**
+- 💬 Ask me about **AWS · Machine Learning · Artificial Intelligence**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: **I'm a Dancer too! 💃**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=khyati999&theme=default&layout=compact"/>
+---
 
-<hr />
-<h3 align="center">🤝 Connect with me:</h3>
+### 🛠️ Tech Stack & Tools
+
 <p align="left">
-    <a href="https://www.linkedin.com/in/khyati-mishra-675403226/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="khyati-mishra-675403226/" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/khyatimishra999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="khyatimishra999" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/khyatimishra" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="user/khyatimishra/profile" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/khyati_999" target="blank"><img align="center"
-            src="https://cdn.codechef.com/images/cc-logo.svg"
-            alt="users/khyati_999" height="30" width="40" /></a>
-    <a href="https://leetcode.com/khyatimishra7014/" target="blank"><img align="center"
-            src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png"
-            alt="khyatimishra7014/" height="30" width="40" /></a>
-    <a href="https://dev.to/khyati999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/khyati999" height="30" width="40" /></a>
-    <a href="https://twitter.com/khyati_mishra7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/khyati_mishra7" height="30" width="40" /></a>
-    <a href="https://www.kaggle.com/khyatimishra999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhinavbhatra" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khyati999&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khyati999&theme=github_dark" alt="Top Languages by Repo" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khyati999&theme=github_dark" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khyati999&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khyati999&theme=github_dark" alt="Profile Details" width="100%" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=khyati999&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khyati999&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/khyati-mishra-675403226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/khyati_mishra7" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/khyatimishra999" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://dev.to/khyati999" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/khyatimishra999" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/khyatimishra7014/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/khyatimishra" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/khyati_999" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"The secret of getting ahead is getting started." – Mark Twain</i>
 </p>
